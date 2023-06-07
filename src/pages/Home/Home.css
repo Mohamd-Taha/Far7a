@@ -1,0 +1,89 @@
+.slogan-container {
+  direction: rtl;
+  margin: 2rem;
+  font-family: "font-family: 'Lateef', serif; ";
+}
+
+.slogan1 {
+  font-size: 4rem;
+  font-size: 72px;
+  background-image: linear-gradient(to left, green, red, blue);
+  background-clip: text;
+  color: transparent;
+  /* background: linear-gradient(to left, green, aquamarine); */
+  /* width: fit-content; */
+}
+.slogan2 {
+  font-size: 1.5rem;
+}
+
+.InfoBar-container {
+  display: flex;
+  justify-content: flex-end;
+  margin: 5rem;
+  font-size: 20px;
+  font-family: "Droid Arabic Naskh";
+}
+
+.InfoBar {
+  width: 60%;
+  height: 100px;
+  box-shadow: 0px 0px 15px -5px;
+  /* margin: ; */
+  /* margin: 5px; */
+  display: flex;
+  align-items: center;
+  padding: 10px;
+
+  justify-content: space-around;
+}
+
+.btn_Info {
+  color: gray;
+  width: 30%;
+}
+.btn_Info:hover {
+  color: black;
+  cursor: pointer;
+}
+.wedding-logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+}
+
+.card-group {
+  display: flex;
+  /* width: 90%; */
+  flex-wrap: wrap;
+  /* margin-left: auto;
+  margin-right: auto; */
+  /* border: 1px solid; */
+  justify-content: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.icon img {
+  /* border: 1px solid; */
+  border-radius: 50px;
+  margin: 0.5rem;
+}
+.level1-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.white-space1 {
+  height: 100px;
+}
+
+.header {
+  margin: 0.5rem;
+  display: flex;
+  justify-content: center;
+  font-family: Thabit;
+}
